@@ -1,0 +1,15 @@
+
+#wrapper{
+    background-color: black;
+}
+
+
+.slider-wrapper{
+    width: 1000px;
+    margin: 10px auto;
+    
+    }
+    .nivoSlider img{
+        transition: 1s ease-in;
+
+    }

@@ -1,0 +1,44 @@
+body{
+    font-family: 'Bitter', serif; 
+}
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid;
+}
+.box{
+    width: 400px;
+    height: 200px;
+    border: black 3px solid;
+    overflow:scroll;
+    
+}
+.outer{
+    background-color: chartreuse;
+
+}
+.inner{
+    background-color: darkmagenta;
+    transform: rotate(30deg)  scale(o.75);
+}
+  
+h1{
+    font-size: 30px;
+}
+
+.name-highlight{
+    color: darkorange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width-prfl{
+height: 20cm;
+}
